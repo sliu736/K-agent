@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.log
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+.venv/
+
+# Databricks Repos metadata
+.dbx/
+.dbt/
+.databricks/
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Streamlit
+.streamlit/config.toml
