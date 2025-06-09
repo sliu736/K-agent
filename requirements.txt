@@ -1,6 +1,6 @@
 streamlit
 requests
-langchain
-slack_sdk
 pandas
 databricks-sdk
+openai
+databricks_langchain
